@@ -1,0 +1,2 @@
+# LightChaser_GGJ16
+GGJ16- An immersive VR boat rowing adventure along an ancient river covered in darkness. The world has all but slipped into oblivion, with all light receding from the heavens. Life is fragile, slipping into shadow with hope fading as quickly as the light that once bathed the realm. Alone and drifting, you see a brilliant glow of salvation that beckons to you across the dark water. First Person Point of View (FPOV) Virtual Reality (optional) 3D Puzzle Game
